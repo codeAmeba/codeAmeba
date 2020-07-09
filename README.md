@@ -8,14 +8,16 @@
 - Styled-components
 
 ### 좋아하는 것
-- 사람 적은 조용한 지하철에서 독서 📖
-- 풀 냄새 맡으며 산책 🚶🏻
+- 사람 적은 조용한 주말 지하철에서 독서 📖
+- 배철수의 음악캠프 들으며 풀냄새 나는 산책로 걷기 🚶🏻
 - 락큰롤!!! Led Zeppelin, GunsNRoses, AC/DC, Cream, Queen 🤟🏻👨🏻‍🎤🎶
+- 고양이 🐈
 
 ### 요즘 관심사
 - React
 - Chart.js
 - 클린코드
+- 고양이 🐈
 
 ### 블로그
 - https://codeameba.netlify.app/
