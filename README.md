@@ -10,7 +10,7 @@
 ### 좋아하는 것
 - 사람 적은 조용한 주말 지하철에서 독서 📖
 - 배철수의 음악캠프 들으며 풀냄새 나는 산책로 걷기 🚶🏻
-- 락큰롤!!! Led Zeppelin, GunsNRoses, AC/DC, Cream, Queen 🤟🏻👨🏻‍🎤🎶
+- 락큰롤!!! Led Zeppelin, GunsNRoses, AC/DC, Cream, Queen, Dream Theater, Aerosmith 🤟🏻👨🏻‍🎤🎶
 - 고양이 🐈
 
 ### 요즘 관심사
