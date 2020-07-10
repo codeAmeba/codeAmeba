@@ -4,6 +4,7 @@
 - HTML
 - CSS
 - React
+- Hooks
 - Sass
 - Styled-components
 
