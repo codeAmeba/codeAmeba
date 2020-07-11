@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcodeAmeba)](https://hits.seeyoufarm.com)
 ### Front-End Developer
-- 시멘틱 마크업이 더 나은 세상을 만든다고 믿으며, 이성과 감성이 필요한 순간은 각각 다르다는 것을 아는 프론트엔드 개발자 정수영(a.k.a. codAmeba)입니다.
+- 시멘틱 마크업이 더 나은 세상을 만든다고 믿으며, 마케터의 이성과 디자이너의 감성을 지닌 프론트엔드 개발자 정수영(a.k.a. codAmeba)입니다.
 
 ### Interest
 - 맥락에 맞는 시멘틱 마크업
