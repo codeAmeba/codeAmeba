@@ -1,32 +1,14 @@
-## Front-End Developer 🧑🏻‍💻
-### 사용기술
-- JavaScript
-- HTML
-- CSS
-- React
-- Hooks
-- Sass
-- Styled-components
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcodeAmeba)](https://hits.seeyoufarm.com)
+### Front-End Developer
+- 시멘틱 마크업이 더 나은 세상을 만든다고 믿으며, 이성과 감성이 각각 필요한 순간이 다르다는 것을 아는 프론트엔드 개발자 정수영(a.k.a. codAmeba)입니다.
 
-### 좋아하는 것
-- 사람 적은 조용한 주말 지하철에서 독서 📖
-- 배철수의 음악캠프 들으며 풀냄새 나는 산책로 걷기 🚶🏻
-- 락큰롤!!! Led Zeppelin, GunsNRoses, AC/DC, Cream, Queen, Dream Theater, Aerosmith 🤟🏻👨🏻‍🎤🎶
-- 고양이 🐈
+### Interest
+- 맥락에 맞는 시멘틱 마크업
+- 맥락에 맞는 애니메이션 효과
+- 함수형 자바스크립트
+- 컴포넌트 사이의 결합도 최소화
 
-### 요즘 관심사
-- React
-- Chart.js
-- 클린코드
-- 고양이 🐈
-
-### 블로그
-- https://codeameba.netlify.app/
-
-<div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcodeAmeba)](https://hits.seeyoufarm.com)
-</div>
-
+[블로그 링크](https://codeameba.netlify.app/)
 
 <!--
 **codeAmeba/codeAmeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
