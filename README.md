@@ -8,7 +8,7 @@
 - 함수형 자바스크립트
 - 컴포넌트 사이의 결합도 최소화
 
-[블로그 링크](https://codeameba.netlify.app/)
+[![Tech Blog Badge](http://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=github&logoColor=white&link=https://codeameba.netlify.app/)](https://codeameba.netlify.app/)[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/aprilgreenery)](https://www.facebook.com/aprilgreenery)[![Instagram Badge](https://img.shields.io/badge/instagram-d62b7f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/aprilgreenery/)](https://www.instagram.com/aprilgreenery/)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aprilgreenery01@gmail.com)](mailto:aprilgreenery@gmail.com)
 
 <!--
 **codeAmeba/codeAmeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
