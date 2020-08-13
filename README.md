@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcodeAmeba)](https://hits.seeyoufarm.com)
-## Sooyoung Jeong
+## About me
 디자인을 중시하는 마케터 출신 프론트엔드 개발자로서 효과적인 기술 구현 외에도 다음과 같은 측면까지 고려합니다.
 1. SEO를 고려한 시멘틱 마크업
 2. 사용자 경험을 고려한 애니메이션 효과
