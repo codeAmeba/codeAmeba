@@ -1,6 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcodeAmeba)](https://hits.seeyoufarm.com)
-## Front-End Developer
-- 시멘틱 마크업이 더 나은 세상을 만든다고 믿으며, 마케터의 이성과 디자이너의 감성을 지닌 프론트엔드 개발자 정수영입니다. 즐겁게 일하되 기본은 지키자는 것이 지향점입니다.
+## Sooyoung Jeong
+- 디자인을 중시하는 마케터 출신 프론트엔드 개발자로서 효과적인 기술 구현 외에도 다음과 같은 측면까지 고려합니다.
+- 첫째, 시멘틱 마크업을 통한 효율적인 SEO
+- 둘째, 사용자 경험을 고려한 애니메이션 효과
+- 셋째, 임팩트 있는 랜딩페이지
+- 넷째, 사용자 행동 데이터 수집을 고려한 이벤트 배치
 
 ## Interest
 - 맥락에 맞는 시멘틱 마크업
