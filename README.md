@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcodeAmeba)](https://hits.seeyoufarm.com)
 ## About me
-디자인을 사랑하는 마케터 출신 프론트엔드 개발자 정수영입니다. 어려움을 즐겁게 받아들이고, 복잡한 문제일수록 단순하게 풀자는 것을 모토로 살아갑니다.
+미니멀한 디자인을 사랑하는 마케터 출신 프론트엔드 개발자 정수영입니다. 어려움을 즐겁게 받아들이고, 복잡한 문제일수록 단순하게 풀자는 것을 모토로 살아갑니다.
 "Easy is boring, Minimal is Lovely"
 
 ## Interest
