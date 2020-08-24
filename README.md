@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcodeAmeba)](https://hits.seeyoufarm.com)
 ## About me
  어려움을 즐겁게 받아들이고, 복잡한 문제일수록 단순하게 풀자는 것을 모토로 살아갑니다. <br />
-"Easy is boring, Minimal is Lovely"
+__"Easy is boring, Minimal is Lovely"__
 
 ## Interest
 - 맥락에 맞는 시멘틱 마크업📖
