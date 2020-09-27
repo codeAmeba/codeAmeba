@@ -4,14 +4,12 @@
 _"Easy is boring, Minimal is Lovely"_
 
 ## Interest
-- 맥락에 맞는 시멘틱 마크업📖
-- 리액트👾
-- 함수형 자바스크립트✍️
-- 컴포넌트 사이의 결합도 최소화🍰
-- 자바스크립트 유닛테스트🚧
-- 좋은 이름 짓는 법✨
-- 효과적인 커뮤니케이션🗣
-- 고양이 🐈
+- JavaScript
+- React
+- React Native
+- Node.js
+- Customer Driven Development
+- Cat 🐈
 
 ***
 
